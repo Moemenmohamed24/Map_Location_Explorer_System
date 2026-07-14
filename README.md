@@ -21,3 +21,5 @@ A location discovery system focused on Egypt that helps users find suitable plac
 
 # Project Goal
 The project addresses the limitation of traditional map services by organizing locations in a structured database that allows users to search and filter places more efficiently based on predefined categories. Future enhancements will include environmental and contextual filters such as air quality, weather, and sunlight levels.
+I started this project because many people visit places based on limited information and find they are different from what they expected. My goal is to provide more useful details before they travel.
+The project is still under development. It currently focuses on Egypt, but I plan to expand it worldwide, build a more interactive map, improve search and filtering, add weather and sunlight data, implement route finding, and continue adding more locations and features.

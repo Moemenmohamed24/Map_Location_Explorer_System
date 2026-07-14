@@ -13,7 +13,7 @@ A location discovery system focused on Egypt that helps users find suitable plac
 - Designed and implemented using ASP.NET MVC architecture.
 
 ### Technical Highlights
-- C# (ASP.NET MVC)
+- C# (.NET MVC)
 - SQL Server Database Design & Relationships
 - REST API Integration
 - Backend filtering and query logic

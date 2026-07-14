@@ -5,7 +5,7 @@ A location discovery system focused on Egypt that helps users find suitable plac
 # Key Features (Current Version)
 - Developed a structured database of popular places in Egypt.
 - Implemented filtering system based on:
-- Place type (recreational, cultural, historical, etc.)
+- Place type (recreational, cultural, historical)
 - Built relational database to manage:
 - Places data
 - Categories and relationships

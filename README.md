@@ -10,7 +10,7 @@ A location discovery system focused on Egypt that helps users find suitable plac
 - Places data
 - Categories and relationships
 - Integrated external APIs for map-related data and visualization support.
-- Designed and implemented using ASP.NET MVC architecture.
+- Designed and implemented using .NET MVC architecture.
 
 ### Technical Highlights
 - C# (.NET MVC)
